@@ -1,1 +1,6 @@
-This is the Persistence module.
+object persistenceModule {
+	def main(args: Array[String]) = {
+		println("This is the Persistence module.")
+		}
+	}
+
